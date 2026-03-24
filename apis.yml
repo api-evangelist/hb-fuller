@@ -1,0 +1,7 @@
+aid: hb-fuller
+url: https://raw.githubusercontent.com/api-evangelist/hb-fuller/refs/heads/main/apis.yml
+modified: '2026-03-24'
+apis: []
+common:
+  - type: Website
+    url: https://www.hb-fuller.com
