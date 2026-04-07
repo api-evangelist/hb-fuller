@@ -1,7 +1,12 @@
 aid: hb-fuller
-url: https://raw.githubusercontent.com/api-evangelist/hb-fuller/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/hb-fuller/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.hb-fuller.com
+description: >-
+  H.B. Fuller is a leading global adhesives provider focusing on perfecting adhesives,
+  sealants, and other specialty chemical products for consumer, durable assembly,
+  electronics, hygiene, packaging, and other industrial markets.
