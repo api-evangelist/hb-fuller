@@ -34,7 +34,7 @@ common:
     url: https://www.hbfuller.com/en/newsroom
   - type: Contact
     url: https://www.hbfuller.com/en/about-us/contact-us
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://www.hbfuller.com/llms.txt
 maintainers:
   - FN: Kin Lane
